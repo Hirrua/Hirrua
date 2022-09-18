@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Hirruá Souza da Silva
 
+- 🎓Acadêmico de Sistemas de Informação
 - 🌱 Estudando Python e Javascript
 - 🤔 Tentando melhorar a criação de sites responsiveis
 - 📫 hirrua.silva20@gmail.com
