@@ -1,8 +1,10 @@
 
 <p align="left">
   Desenvolvedor de Software <br>
+  
   Estudante de Sistemas de Informação <br>
-  SAP ABAP / RAP / CAP
+  
+  Atualmente desenvolvedor SAP ABAP / RAP / CAP at Meta
 </p>
 
 ---
